@@ -23,12 +23,12 @@ In June 2017 Apple released the ARKit API tool for developers working on virtual
 https://developer.ibm.com/patterns/build-an-ai-powered-ar-character-in-unity-with-arkit/
 
 IBM Developer
-Get started with the IBM Watson Unity SDK
+Get started with the IBM Watson Unity SDK. https://developer.ibm.com/tutorials/use-ibm-watson-sdk-with-unity/
 Learn how to use the IBM Watson SDK for Unity Virtual Reality and Game Development, with the Speech Sandbox as
 
 IBM Developer
 
-Get started with the IBM Watson Unity SDK
+Get started with the IBM Watson Unity SDK. https://developer.ibm.com/tutorials/use-ibm-watson-sdk-with-unity/
 
 Learn how to use the IBM Watson SDK for Unity Virtual Reality and Game Development, with the Speech Sandbox as…
 IBM Developer
