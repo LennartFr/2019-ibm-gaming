@@ -16,10 +16,10 @@ In June 2017 Apple released the ARKit API tool for developers working on virtual
 2. [Get started with the IBM Watson Unity SDK](https://developer.ibm.com/tutorials/use-ibm-watson-sdk-with-unity/)
 
 
-Watson SDK for Unity: https://github.com/watson-developer-cloud/unity-sdk
-VR Speech Sandbox Tutorial: https://developer.ibm.com/tutorials/use-ibm-watson-sdk-with-unity/
-ARKit in Unity Pattern: https://developer.ibm.com/patterns/build-an-ai-powered-ar-character-in-unity-with-arkit/
-Custom Language Model in Unity: https://developer.ibm.com/tutorials/watson-speech-to-text-custom-language-model/
+* Watson SDK for Unity: https://github.com/watson-developer-cloud/unity-sdk
+* VR Speech Sandbox Tutorial: https://developer.ibm.com/tutorials/use-ibm-watson-sdk-with-unity/
+* ARKit in Unity Pattern: https://developer.ibm.com/patterns/build-an-ai-powered-ar-character-in-unity-with-arkit/
+* Custom Language Model in Unity: https://developer.ibm.com/tutorials/watson-speech-to-text-custom-language-model/
 
 https://developer.ibm.com/patterns/build-an-ai-powered-ar-character-in-unity-with-arkit/
 
