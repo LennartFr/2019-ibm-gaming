@@ -41,8 +41,6 @@ Use Watson Assistant, Watson Speech to Text, and Watson text-to-speech deployed 
 
 IBM Developer
 
-Build a custom language model for Watson Speech to Text
-
-When Watson Speech to Text needs a little help understanding your domain
+Build a custom language model for Watson Speech to Text. https://developer.ibm.com/tutorials/watson-speech-to-text-custom-language-model/  When Watson Speech to Text needs a little help understanding your domain
 
 
