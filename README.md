@@ -28,13 +28,21 @@ Get started with the IBM Watson Unity SDK
 Learn how to use the IBM Watson SDK for Unity Virtual Reality and Game Development, with the Speech Sandbox as
 
 IBM Developer
+
 Get started with the IBM Watson Unity SDK
+
 Learn how to use the IBM Watson SDK for Unity Virtual Reality and Game Development, with the Speech Sandbox as…
+
 IBM Developer
+
 Build an AR avatar for the iPhone
+
 Use Watson Assistant, Watson Speech to Text, and Watson text-to-speech deployed to an iPhone with ARKit to have a voice-powered animated avatar in Unity.
+
 IBM Developer
+
 Build a custom language model for Watson Speech to Text
+
 When Watson Speech to Text needs a little help understanding your domain
 
 
