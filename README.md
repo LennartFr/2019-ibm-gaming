@@ -1,4 +1,4 @@
-# 2019-ibm gaming and mobile 
+# 2019-ibm gaming
 
 # URL 
 
