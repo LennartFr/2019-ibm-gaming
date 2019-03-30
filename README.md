@@ -6,6 +6,8 @@
 
 <img src="BareMetal.png">
 
+[Bare Metal Servers Resources](https://www.ibm.com/cloud/bare-metal-servers/resources)
+
 [IBM and Unity are partnering to bring the power of AI to the Unity community](https://blogs.unity3d.com/2018/02/20/bringing-the-power-of-ai-to-developers-with-the-ibm-watson-unity-sdk/)
 
 Build your solution
