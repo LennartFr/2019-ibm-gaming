@@ -2,7 +2,7 @@
 
 <img src="IBMGame.png">
 
-<ing src="BareMetalServers.png">
+<img src="BareMetalServers.png">
 
 [IBM Coloud for Gaming](https://www.ibm.com/cloud/gaming)
 
