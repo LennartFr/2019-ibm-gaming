@@ -18,21 +18,11 @@
 ## Local Storage Rangee
 * Up to 36 drives per server. 800 GB to 1.2 TB SSDs.
 
-
-
-
 [Bare Metal Servers Resources](https://www.ibm.com/cloud/bare-metal-servers/resources)
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 [IBM and Unity are partnering to bring the power of AI to the Unity community](https://blogs.unity3d.com/2018/02/20/bringing-the-power-of-ai-to-developers-with-the-ibm-watson-unity-sdk/)
-
-Build your solution
-
-Bare Metal
-
-GPUs
-
 
 [Star Trek: Bridge Crew - IBM Watson Trailer](https://youtu.be/6hDkkELJTZU)
 
