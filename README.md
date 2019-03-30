@@ -6,7 +6,7 @@
 
 <img src="BareMetal.png">
 
-
+[IBM and Unity are partnering to bring the power of AI to the Unity community](https://blogs.unity3d.com/2018/02/20/bringing-the-power-of-ai-to-developers-with-the-ibm-watson-unity-sdk/)
 
 Build your solution
 Bare Metal
