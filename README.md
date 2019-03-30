@@ -51,7 +51,7 @@ IBM Developer
 
 
 
-https://developer.ibm.com/patterns/build-an-ai-powered-ar-character-in-unity-with-arkit/
+[Build an AR avatar for the iPhone. Use Watson services deployed to an iPhone with ARKit to have a voice-powered animated avatar in Unity](https://developer.ibm.com/patterns/build-an-ai-powered-ar-character-in-unity-with-arkit/)
 
 Get started with the IBM Watson Unity SDK. https://developer.ibm.com/tutorials/use-ibm-watson-sdk-with-unity/
 
