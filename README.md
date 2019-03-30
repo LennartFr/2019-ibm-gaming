@@ -8,6 +8,19 @@
 
 <img src="BareMetal.png">
 
+## Single tenant
+* A bare metal server dedicated to customers for complete control, flexibility, and security.
+
+## Computing power
+* From single processor 4-core architectures to quad-processor 12-core architectures and up to 3 TB RAM.
+* Local storage range: Up to 36 drives per server. 800 GB to 1.2 TB SSDs.
+
+## Local Storage Rangee
+* Up to 36 drives per server. 800 GB to 1.2 TB SSDs.
+
+
+
+
 [Bare Metal Servers Resources](https://www.ibm.com/cloud/bare-metal-servers/resources)
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
