@@ -2,6 +2,8 @@
 
 <img src="IBMGame.png">
 
+<ing src="BareMetalServers.png">
+
 [IBM Coloud for Gaming](https://www.ibm.com/cloud/gaming)
 
 Build your solution
