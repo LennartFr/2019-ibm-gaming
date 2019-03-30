@@ -2,9 +2,11 @@
 
 <img src="IBMGame.png">
 
+[IBM Cloud for Gaming](https://www.ibm.com/cloud/gaming)
+
 <img src="BareMetal.png">
 
-[IBM Coloud for Gaming](https://www.ibm.com/cloud/gaming)
+
 
 Build your solution
 Bare Metal
