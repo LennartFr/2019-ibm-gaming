@@ -2,7 +2,7 @@
 
 <img src="ARKit.png">
 
-[Youtube](https://youtu.be/6hDkkELJTZU)
+[Star Trek: Bridge Crew - IBM Watson Trailer](https://youtu.be/6hDkkELJTZU)
 
 [Rainbow Octopus. Animate a 3d character with ARKit & IBM Watson](https://www.ibm.com/blogs/emerging-technology/rainbow-octopus/) 
 
