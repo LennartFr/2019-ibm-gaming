@@ -8,6 +8,8 @@
 
 [Bare Metal Servers Resources](https://www.ibm.com/cloud/bare-metal-servers/resources)
 
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
 [IBM and Unity are partnering to bring the power of AI to the Unity community](https://blogs.unity3d.com/2018/02/20/bringing-the-power-of-ai-to-developers-with-the-ibm-watson-unity-sdk/)
 
 Build your solution
@@ -17,12 +19,10 @@ Bare Metal
 GPUs
 
 
-
-
 [Star Trek: Bridge Crew - IBM Watson Trailer](https://youtu.be/6hDkkELJTZU)
 
 
-
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 [Unity Game Engine](https://unity.com)
 
@@ -61,6 +61,8 @@ https://developer.ibm.com/tutorials/watson-speech-to-text-custom-language-model/
 [Get started with the IBM Watson Unity SDK](https://developer.ibm.com/tutorials/use-ibm-watson-sdk-with-unity)
 
 Build a custom language model for Watson Speech to Text. https://developer.ibm.com/tutorials/watson-speech-to-text-custom-language-model/  When Watson Speech to Text needs a little help understanding your domain
+
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 <img src="ARKit.png
 
