@@ -84,7 +84,7 @@ Build a custom language model for Watson Speech to Text. https://developer.ibm.c
 
 <img src="mobile.png">
 
-<img srtc="mobilefoundation.png">
+<img src="mobilefoundation.png">
 
 [IBM Modile Foundation](https://console.bluemix.net/catalog/services/mobile-foundation)
 
