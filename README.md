@@ -22,13 +22,6 @@
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-[IBM and Unity are partnering to bring the power of AI to the Unity community](https://blogs.unity3d.com/2018/02/20/bringing-the-power-of-ai-to-developers-with-the-ibm-watson-unity-sdk/)
-
-[Star Trek: Bridge Crew - IBM Watson Trailer](https://youtu.be/6hDkkELJTZU)
-
-
-<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-
 <img src="unity.png" height="200" width="500">
 
 [Unity Game Engine](https://unity.com)
@@ -41,6 +34,11 @@
 * [Watson SDK for Unity](https://github.com/watson-developer-cloud/unity-sdk)
 * [VR Speech Sandbox Tutorial](https://developer.ibm.com/tutorials/use-ibm-watson-sdk-with-unity/)
 * Custom Language Model in Unity: (https://developer.ibm.com/tutorials/watson-speech-to-text-custom-language-model/)
+
+[IBM and Unity are partnering to bring the power of AI to the Unity community](https://blogs.unity3d.com/2018/02/20/bringing-the-power-of-ai-to-developers-with-the-ibm-watson-unity-sdk/)
+
+[Star Trek: Bridge Crew - IBM Watson Trailer](https://youtu.be/6hDkkELJTZU)
+
 
 https://developer.ibm.com/patterns/build-an-ai-powered-ar-character-in-unity-with-arkit/
 
