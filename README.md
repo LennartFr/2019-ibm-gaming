@@ -29,7 +29,7 @@
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-<img src="unity.png" height="200" width="600">
+<img src="unity.png" height="200" width="500">
 
 [Unity Game Engine](https://unity.com)
 
