@@ -60,7 +60,7 @@ When Watson Speech to Text needs a little help understanding your domain
 
 https://developer.ibm.com/tutorials/watson-speech-to-text-custom-language-model/
 
-* [Watson SDK for Unity[(https://github.com/watson-developer-cloud/unity-sdk)
+* [Watson SDK for Unity](https://github.com/watson-developer-cloud/unity-sdk)
 * [VR Speech Sandbox Tutorial](https://developer.ibm.com/tutorials/use-ibm-watson-sdk-with-unity/)
 
 * [Custom Language Model in Unity](https://developer.ibm.com/tutorials/watson-speech-to-text-custom-language-model/)
