@@ -33,8 +33,6 @@
 
 [Unity Game Engine](https://unity.com)
 
-* [Mobile Code Patterns](https://developer.ibm.com/patterns/category/mobile/)
-
 * Unity and Watson
 
 1. [Watson Developer Cloud Unity SDK](https://github.com/watson-developer-cloud/unity-sdk)
@@ -46,20 +44,13 @@
 
 https://developer.ibm.com/patterns/build-an-ai-powered-ar-character-in-unity-with-arkit/
 
-IBM Developer
-[Get started with the IBM Watson Unity SDK](https://developer.ibm.com/tutorials/use-ibm-watson-sdk-with-unity/)
-[Learn how to use the IBM Watson SDK for Unity Virtual Reality and Game Development, with the Speech Sandbox as
 
-[Get started with the IBM Watson Unity SDK](https://developer.ibm.com/tutorials/use-ibm-watson-sdk-with-unity/)
+* [Get started with the IBM Watson Unity SDK](https://developer.ibm.com/tutorials/use-ibm-watson-sdk-with-unity/)
+* [Learn how to use the IBM Watson SDK for Unity Virtual Reality and Game Development, with the Speech Sandbox as
+* [Use Watson Assistant, Watson Speech to Text, and Watson text-to-speech deployed to an iPhone with ARKit to have a voice-powered animated avatar in Unity](https://developer.ibm.com/tutorials/watson-speech-to-text-custom-language-model/)
 
-[Use Watson Assistant, Watson Speech to Text, and Watson text-to-speech deployed to an iPhone with ARKit to have a voice-powered animated avatar in Unity](https://developer.ibm.com/tutorials/watson-speech-to-text-custom-language-model/)
 
-When Watson Speech to Text needs a little help understanding your domain
-Build a custom language model for Watson Speech to Text
-When Watson Speech to Text needs a little help understanding your domain
-
-https://developer.ibm.com/tutorials/watson-speech-to-text-custom-language-model/
-
+* [Watson Speech-to-text language model](https://developer.ibm.com/tutorials/watson-speech-to-text-custom-language-model/)
 * [Watson SDK for Unity](https://github.com/watson-developer-cloud/unity-sdk)
 * [VR Speech Sandbox Tutorial](https://developer.ibm.com/tutorials/use-ibm-watson-sdk-with-unity/)
 
@@ -88,5 +79,6 @@ Build a custom language model for Watson Speech to Text. https://developer.ibm.c
 
 [IBM Modile Foundation](https://console.bluemix.net/catalog/services/mobile-foundation)
 
+* [Mobile Code Patterns](https://developer.ibm.com/patterns/category/mobile/)
 * [Build an AR avatar for the iPhone](https://developer.ibm.com/patterns/build-an-ai-powered-ar-character-in-unity-with-arkit/)
 * [IBM Mobile Foundation](https://console.bluemix.net/catalog/services/mobile-foundation)
