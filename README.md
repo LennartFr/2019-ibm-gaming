@@ -79,3 +79,6 @@ Build a custom language model for Watson Speech to Text. https://developer.ibm.c
 * [In June 2017 Apple released the ARKit API tool for developers working on virtual reality and augmented reality applications.](https://developer.apple.com/arkit/)
 * [ARKit in Unity Pattern](https://developer.ibm.com/patterns/build-an-ai-powered-ar-character-in-unity-with-arkit/)
 * [Build an AR avatar for the iPhone. Use Watson services deployed to an iPhone with ARKit to have a voice-powered animated avatar in Unity](https://developer.ibm.com/patterns/build-an-ai-powered-ar-character-in-unity-with-arkit/)
+
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
