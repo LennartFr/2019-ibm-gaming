@@ -29,17 +29,13 @@
 
 ## Unity and Watson
 
-1. [Watson Developer Cloud Unity SDK](https://github.com/watson-developer-cloud/unity-sdk)
-
+* [Watson Developer Cloud Unity SDK](https://github.com/watson-developer-cloud/unity-sdk)
 * [Watson SDK for Unity](https://github.com/watson-developer-cloud/unity-sdk)
 * [VR Speech Sandbox Tutorial](https://developer.ibm.com/tutorials/use-ibm-watson-sdk-with-unity/
-
+* [Custom Language Model in Unity](https://developer.ibm.com/tutorials/watson-speech-to-text-custom-language-model/)
 
 * [Get started with the IBM Watson Unity SDK](https://developer.ibm.com/tutorials/use-ibm-watson-sdk-with-unity/)
 * [VR Speech Sandbox Tutorial](https://developer.ibm.com/tutorials/use-ibm-watson-sdk-with-unity/)
-
-* [Custom Language Model in Unity](https://developer.ibm.com/tutorials/watson-speech-to-text-custom-language-model/)
- 
 
 * [Star Trek: Bridge Crew - IBM Watson Trailer](https://youtu.be/6hDkkELJTZU)
 
