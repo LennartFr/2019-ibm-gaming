@@ -35,7 +35,7 @@
 * [Custom Language Model in Unity](https://developer.ibm.com/tutorials/watson-speech-to-text-custom-language-model/)
 
 * [Get started with the IBM Watson Unity SDK](https://developer.ibm.com/tutorials/use-ibm-watson-sdk-with-unity/)
-* [VR Speech Sandbox Tutorial](https://developer.ibm.com/tutorials/use-ibm-watson-sdk-with-unity/)
+* [VR Speech Sandbox Tutorial](https://developer.ibm.com/tutorials/use-ibm-watson-sdk-with-unity/) 
 
 * [Star Trek: Bridge Crew - IBM Watson Trailer](https://youtu.be/6hDkkELJTZU)
 
