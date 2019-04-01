@@ -26,14 +26,14 @@
 
 [Unity Game Engine](https://unity.com)
 
-* Unity and Watson
+
+## Unity and Watson
 
 1. [Watson Developer Cloud Unity SDK](https://github.com/watson-developer-cloud/unity-sdk)
 
 * [Watson SDK for Unity](https://github.com/watson-developer-cloud/unity-sdk)
 * [VR Speech Sandbox Tutorial](https://developer.ibm.com/tutorials/use-ibm-watson-sdk-with-unity/
 
-* [IBM and Unity are partnering to bring the power of AI to the Unity community(https://blogs.unity3d.com/2018/02/20/bringing-the-power-of-ai-to-developers-with-the-ibm-watson-unity-sdk/)
 
 * [Get started with the IBM Watson Unity SDK](https://developer.ibm.com/tutorials/use-ibm-watson-sdk-with-unity/)
 * [VR Speech Sandbox Tutorial](https://developer.ibm.com/tutorials/use-ibm-watson-sdk-with-unity/)
