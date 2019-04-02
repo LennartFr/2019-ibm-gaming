@@ -52,7 +52,6 @@
 * [ARKit in Unity Pattern](https://developer.ibm.com/patterns/build-an-ai-powered-ar-character-in-unity-with-arkit/)
 * [Rainbow Octopus. Animate a 3d character with ARKit & IBM Watson](https://www.ibm.com/blogs/emerging-technology/rainbow-octopus/) 
 * [In June 2017 Apple released the ARKit API tool for developers working on virtual reality and augmented reality applications.](https://developer.apple.com/arkit/)
-* [ARKit in Unity Pattern](https://developer.ibm.com/patterns/build-an-ai-powered-ar-character-in-unity-with-arkit/)
 * [Build an AR avatar for the iPhone. Use Watson services deployed to an iPhone with ARKit to have a voice-powered animated avatar in Unity](https://developer.ibm.com/patterns/build-an-ai-powered-ar-character-in-unity-with-arkit/)
 * [Use Watson Assistant, Watson Speech to Text, and Watson text-to-speech deployed to an iPhone with ARKit to have a voice-powered animated avatar in Unity](https://developer.ibm.com/tutorials/watson-speech-to-text-custom-language-model/)
 
