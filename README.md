@@ -15,7 +15,7 @@
 * From single processor 4-core architectures to quad-processor 12-core architectures and up to 3 TB RAM.
 * Local storage range: Up to 36 drives per server. 800 GB to 1.2 TB SSDs.
 
-## Local Storage Rangee
+## Local Storage Range
 * Up to 36 drives per server. 800 GB to 1.2 TB SSDs.
 
 [Bare Metal Servers Resources](https://www.ibm.com/cloud/bare-metal-servers/resources)
@@ -28,6 +28,7 @@
 
 ## Unity and Watson
 
+* [Unity + IBM Watson + Hello World](https://www.youtube.com/watch?v=tkvWi16rlE8)
 * [IBM & Unity partner to bring the power of AI to developers with IBM Watson SDK for Unity](https://blogs.unity3d.com/2018/02/20/bringing-the-power-of-ai-to-developers-with-the-ibm-watson-unity-sdk/)
 * [Get started with the IBM Watson Unity SDK](https://developer.ibm.com/tutorials/use-ibm-watson-sdk-with-unity/)
 * [Watson Developer Cloud Unity SDK](https://github.com/watson-developer-cloud/unity-sdk)
