@@ -26,7 +26,6 @@
 
 [Unity Game Engine](https://unity.com)
 
-
 ## Unity and Watson
 
 * [IBM & Unity partner to bring the power of AI to developers with IBM Watson SDK for Unity](https://blogs.unity3d.com/2018/02/20/bringing-the-power-of-ai-to-developers-with-the-ibm-watson-unity-sdk/)
