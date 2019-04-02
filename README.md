@@ -32,7 +32,7 @@
 * [Unity + IBM Watson + Hello World: Video ](https://www.youtube.com/watch?v=tkvWi16rlE8)
 * [IBM Unity SDK: Video](https://www.youtube.com/watch?v=_ARXT--81GY)
 * [Watson Unity SDK: Speech to Text example: Video](https://www.youtube.com/watch?v=woKMumx3TcY)
-
+* [Watson Unity SDK: creating Watson Services:](https://www.youtube.com/watch?v=xKzSzTvRH68)
 
 * [IBM & Unity partner to bring the power of AI to developers with IBM Watson SDK for Unity](https://blogs.unity3d.com/2018/02/20/bringing-the-power-of-ai-to-developers-with-the-ibm-watson-unity-sdk/)
 * [Get started with the IBM Watson Unity SDK](https://developer.ibm.com/tutorials/use-ibm-watson-sdk-with-unity/)
