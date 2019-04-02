@@ -35,8 +35,6 @@
 * [Watson Unity SDK: creating Watson Services: Video](https://www.youtube.com/watch?v=xKzSzTvRH68)
 * [Facial Recognition with Watson Unity SDK: Video](https://www.youtube.com/watch?v=PvgK8wfQ_Mw)
 
-
-
 * [IBM & Unity partner to bring the power of AI to developers with IBM Watson SDK for Unity](https://blogs.unity3d.com/2018/02/20/bringing-the-power-of-ai-to-developers-with-the-ibm-watson-unity-sdk/)
 * [Get started with the IBM Watson Unity SDK](https://developer.ibm.com/tutorials/use-ibm-watson-sdk-with-unity/)
 * [Watson Developer Cloud Unity SDK](https://github.com/watson-developer-cloud/unity-sdk)
@@ -50,8 +48,7 @@
 
 <img src="ARKit.png">
 
-* https://developer.ibm.com/patterns/build-an-ai-powered-ar-character-in-unity-with-arkit/
-* [Build an AR avatar for the iPhone. Use Watson services deployed to an iPhone with ARKit to have a voice-powered animated avatar in Unity](https://developer.ibm.com/patterns/build-an-ai-powered-ar-character-in-unity-with-arkit/)
+* [Use Watson services deployed to an iPhone with ARKit to have a voice-powered animated avatar in Unity](https://developer.ibm.com/patterns/build-an-ai-powered-ar-character-in-unity-with-arkit/)
 * [ARKit in Unity Pattern](https://developer.ibm.com/patterns/build-an-ai-powered-ar-character-in-unity-with-arkit/)
 * [Rainbow Octopus. Animate a 3d character with ARKit & IBM Watson](https://www.ibm.com/blogs/emerging-technology/rainbow-octopus/) 
 * [In June 2017 Apple released the ARKit API tool for developers working on virtual reality and augmented reality applications.](https://developer.apple.com/arkit/)
