@@ -21,7 +21,7 @@
 ##    Watson Unity SDK services
 
 <img src="unitysdkwatson.png"><br>
-IBM Watson + Unity Hello Virtual World 4 EMOTIONAL AVATAR
+[IBM Watson + Unity Hello Virtual World 4 EMOTIONAL AVATAR](https://www.youtube.com/watch?v=fOfFrGsNwHo)
 
 * [Watson Assistance(Chatbot) ](https://www.ibm.com/cloud/watson-assistant/)
 
