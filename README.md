@@ -24,6 +24,8 @@
 * [Watson Unity SDK: creating Watson Services: Video](https://www.youtube.com/watch?v=xKzSzTvRH68)
 * [Unity + IBM Watson + Hello World: Video ](https://www.youtube.com/watch?v=tkvWi16rlE8)
 
+* [Watson SDK for Unity](https://github.com/watson-developer-cloud/unity-sdk)
+
 <hr size="50">
 
 * [IBM Watson SDK for Unity Speech and Language Translation Multiple Languages - Part 1](https://www.youtube.com/watch?v=Xluwq9LuSTs)
@@ -35,14 +37,11 @@
 * [Facial Recognition with Watson Unity SDK: Video](https://www.youtube.com/watch?v=PvgK8wfQ_Mw)
 * [Get started with the IBM Watson Unity SDK](https://developer.ibm.com/tutorials/use-ibm-watson-sdk-with-unity/)
 * [Watson Developer Cloud Unity SDK](https://github.com/watson-developer-cloud/unity-sdk)
-* [Watson SDK for Unity](https://github.com/watson-developer-cloud/unity-sdk)
 * [Custom Language Model in Unity](https://developer.ibm.com/tutorials/watson-speech-to-text-custom-language-model/)
 * [VR Speech Sandbox Tutorial](https://developer.ibm.com/tutorials/use-ibm-watson-sdk-with-unity/) 
 
 
-
 * [IBM Unity SDK: Video](https://www.youtube.com/watch?v=_ARXT--81GY)
-
 * [Star Trek: Bridge Crew - IBM Watson Trailer](https://youtu.be/6hDkkELJTZU)
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
