@@ -18,7 +18,8 @@
 
 * [Watson Assistance(Chatbot) ](https://www.ibm.com/cloud/watson-assistant/)
 
-* [Watson Compare Comply V1](https://www.ibm.com/cloud/compare-and-comply)
+* [Watson Compare Comply V1](https://www.ibm.com/cloud/compare-and-comply) "Extract data from contracts and governing documents to increase productivity, reduce costs and minimize exposure"
+
 * [Discovery](https://www.ibm.com/watson/services/discovery/)
 * [Language Translator V3](https://www.ibm.com/watson/services/language-translator/)
 * [Natural Language Classifier](https://www.ibm.com/watson/services/natural-language-classifier/)
