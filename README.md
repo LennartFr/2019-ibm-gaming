@@ -66,6 +66,8 @@
 
 <img src="ARKit.png">
 
+[Rainbow Octopus - Test - Unity + ARKit + Watson SDK](https://www.youtube.com/watch?v=OPek4INjb6A&feature=youtu.be)
+
 * [Use Watson services deployed to an iPhone with ARKit to have a voice-powered animated avatar in Unity](https://developer.ibm.com/patterns/build-an-ai-powered-ar-character-in-unity-with-arkit/)
 * [ARKit in Unity Pattern](https://developer.ibm.com/patterns/build-an-ai-powered-ar-character-in-unity-with-arkit/)
 * [Rainbow Octopus. Animate a 3d character with ARKit & IBM Watson](https://www.ibm.com/blogs/emerging-technology/rainbow-octopus/) 
