@@ -16,9 +16,9 @@
 
 [Unity Game Engine](https://unity.com)
 
-[Watson Unity SDK](https://github.com/watson-developer-cloud/unity-sdk)
+# [Watson Unity SDK](https://github.com/watson-developer-cloud/unity-sdk)
 
-# Watson Unity SDK services
+##       Watson Unity SDK services
 
 <img src="unitysdkwatson.png">
 
