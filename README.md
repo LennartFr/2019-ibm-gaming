@@ -14,7 +14,7 @@
 
 <img src="unity.png" height="200" width="500">
 
-# Watson Seervices
+# Watson Services
 
 * [Watson Assistance](https://www.ibm.com/cloud/watson-assistant/)
 
