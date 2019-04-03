@@ -28,10 +28,10 @@
 
 <hr size="50">
 
+## Individual Watson Services
+
 * [IBM Watson SDK for Unity Speech and Language Translation Multiple Languages - Part 1](https://www.youtube.com/watch?v=Xluwq9LuSTs)
 * [IBM Watson SDK for Unity Speech and Language Translation Multiple Languages Part 2](https://www.youtube.com/watch?v=swsJo_jlCNo)
-
-## Individual Watson Services
 
 * [Watson Unity SDK: Speech to Text example: Video](https://www.youtube.com/watch?v=woKMumx3TcY)
 * [Facial Recognition with Watson Unity SDK: Video](https://www.youtube.com/watch?v=PvgK8wfQ_Mw)
