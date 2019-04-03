@@ -18,6 +18,18 @@
 
 * [Watson Assistance](https://www.ibm.com/cloud/watson-assistant/)
 
+* [Watson Compare Comply V1](https://www.ibm.com/cloud/compare-and-comply)
+* [Discovery](https://www.ibm.com/watson/services/discovery/)
+* [Language Translator V3](https://www.ibm.com/watson/services/language-translator/)
+* [Natural Language Classifier](https://www.ibm.com/watson/services/natural-language-classifier/)
+* [Natural Language Understanding](https://www.ibm.com/watson/services/natural-language-understanding/)
+* [Personality Insights](https://www.ibm.com/watson/services/personality-insights/)
+* [Speech to Text](https://www.ibm.com/watson/services/speech-to-text/)
+* [Text to Speech](https://www.ibm.com/watson/services/text-to-speech/)
+* [Tone Analyzer](https://www.ibm.com/watson/services/tone-analyzer/)
+* [Visual Recognition](https://www.ibm.com/watson/services/visual-recognition/)
+
+
 [Unity Game Engine](https://unity.com)
 
 ## Unity and Watson
