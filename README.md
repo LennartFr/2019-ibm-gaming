@@ -28,7 +28,7 @@
 
 ## Unity and Watson
 
-* [Install the IBM Watson SDK for unity: Video](https://www.youtube.com/watch?v=rhDjNNzh-Nw)
+* [Install the IBM Watson SDK for Unity: Video](https://www.youtube.com/watch?v=rhDjNNzh-Nw)
 * [Unity + IBM Watson + Hello World: Video ](https://www.youtube.com/watch?v=tkvWi16rlE8)
 * [IBM Unity SDK: Video](https://www.youtube.com/watch?v=_ARXT--81GY)
 * [Watson Unity SDK: Speech to Text example: Video](https://www.youtube.com/watch?v=woKMumx3TcY)
