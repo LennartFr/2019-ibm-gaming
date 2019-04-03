@@ -18,9 +18,7 @@
 
 [Watson Unity SDK](https://github.com/watson-developer-cloud/unity-sdk)
 
-# Watson Services
-
-## Watson Unity SDK
+# Watson Unity SDK services
 
 <img src="unitysdkwatson.png">
 
