@@ -30,8 +30,8 @@
 * [Discovery](https://www.ibm.com/watson/services/discovery/) "Unlock hidden value in data to find answers, monitor trends, and surface patterns with the world’s most advanced cloud-native insight engine"
 
 * [Language Translator V3](https://www.ibm.com/watson/services/language-translator/)
-* [Natural Language Classifier](https://www.ibm.com/watson/services/natural-language-classifier/)
-* [Natural Language Understanding](https://www.ibm.com/watson/services/natural-language-understanding/)
+* [Natural Language Classifier](https://www.ibm.com/watson/services/natural-language-classifier/) help you understand its concepts, entities, keywords, sentiment, and more.
+* [Natural Language Understanding](https://www.ibm.com/watson/services/natural-language-understanding/) Analyze text to extract metadata from content such as concepts, entities, keywords, categories, sentiment, emotion, relations, and semantic roles using natural language understanding.
 * [Personality Insights](https://www.ibm.com/watson/services/personality-insights/)
 * [Speech to Text](https://www.ibm.com/watson/services/speech-to-text/)
 * [Text to Speech](https://www.ibm.com/watson/services/text-to-speech/)
