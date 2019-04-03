@@ -14,6 +14,8 @@
 
 <img src="unity.png" height="200" width="500">
 
+[Unity Game Engine](https://unity.com)
+
 # Watson Services
 
 * [Watson Assistance(Chatbot) ](https://www.ibm.com/cloud/watson-assistant/)
@@ -31,8 +33,6 @@
 * [Tone Analyzer](https://www.ibm.com/watson/services/tone-analyzer/)
 * [Visual Recognition](https://www.ibm.com/watson/services/visual-recognition/)
 
-
-[Unity Game Engine](https://unity.com)
 
 ## Unity and Watson
 
