@@ -18,9 +18,10 @@
 
 # [Watson Unity SDK](https://github.com/watson-developer-cloud/unity-sdk)
 
-##       Watson Unity SDK services
+##    Watson Unity SDK services
 
-<img src="unitysdkwatson.png">
+<img src="unitysdkwatson.png"><br>
+IBM Watson + Unity Hello Virtual World 4 EMOTIONAL AVATAR
 
 * [Watson Assistance(Chatbot) ](https://www.ibm.com/cloud/watson-assistant/)
 
