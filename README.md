@@ -29,15 +29,17 @@
 * [IBM Watson SDK for Unity Speech and Language Translation Multiple Languages - Part 1](https://www.youtube.com/watch?v=Xluwq9LuSTs)
 * [IBM Watson SDK for Unity Speech and Language Translation Multiple Languages Part 2](https://www.youtube.com/watch?v=swsJo_jlCNo)
 
+## Individual Watson Services
+
 * [Watson Unity SDK: Speech to Text example: Video](https://www.youtube.com/watch?v=woKMumx3TcY)
 * [Facial Recognition with Watson Unity SDK: Video](https://www.youtube.com/watch?v=PvgK8wfQ_Mw)
-
-
 * [Get started with the IBM Watson Unity SDK](https://developer.ibm.com/tutorials/use-ibm-watson-sdk-with-unity/)
 * [Watson Developer Cloud Unity SDK](https://github.com/watson-developer-cloud/unity-sdk)
 * [Watson SDK for Unity](https://github.com/watson-developer-cloud/unity-sdk)
 * [Custom Language Model in Unity](https://developer.ibm.com/tutorials/watson-speech-to-text-custom-language-model/)
 * [VR Speech Sandbox Tutorial](https://developer.ibm.com/tutorials/use-ibm-watson-sdk-with-unity/) 
+
+
 
 * [IBM Unity SDK: Video](https://www.youtube.com/watch?v=_ARXT--81GY)
 
