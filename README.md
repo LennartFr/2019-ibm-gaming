@@ -23,7 +23,7 @@
 <img src="unitysdkwatson.png"><br>
 [IBM Watson + Unity Hello Virtual World 4 EMOTIONAL AVATAR](https://www.youtube.com/watch?v=fOfFrGsNwHo)
 
-* [Watson Assistance(Chatbot) ](https://www.ibm.com/cloud/watson-assistant/)
+* [Watson Assistant(Chatbot) ](https://www.ibm.com/cloud/watson-assistant/)
 
 * [Watson Compare Comply V1](https://www.ibm.com/cloud/compare-and-comply) "Extract data from contracts and governing documents to increase productivity, reduce costs and minimize exposure"
 
