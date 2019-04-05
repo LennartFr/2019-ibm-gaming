@@ -45,6 +45,9 @@
 * [Speech to Text](https://www.ibm.com/watson/services/speech-to-text/)
 * [Text to Speech](https://www.ibm.com/watson/services/text-to-speech/)
 * [Tone Analyzer](https://www.ibm.com/watson/services/tone-analyzer/)
+
+<img src="https://github.com/LennartFr/2019-ibm-gaming/blob/master/ToneAnalyzer.png">
+
 * [Visual Recognition](https://www.ibm.com/watson/services/visual-recognition/)
 
 <img src="https://github.com/LennartFr/2019-ibm-gaming/blob/master/visual.png"> 
