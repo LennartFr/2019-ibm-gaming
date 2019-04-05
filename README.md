@@ -32,6 +32,9 @@
 * [Language Translator V3](https://www.ibm.com/watson/services/language-translator/)
 * [Natural Language Classifier](https://www.ibm.com/watson/services/natural-language-classifier/) help you understand its concepts, entities, keywords, sentiment, and more.
 * [Natural Language Understanding](https://www.ibm.com/watson/services/natural-language-understanding/) Analyze text to extract metadata from content such as concepts, entities, keywords, categories, sentiment, emotion, relations, and semantic roles using natural language understanding.
+
+<img src="https://github.com/LennartFr/2019-ibm-gaming/blob/master/NLUnderstanding.png">
+
 * [Personality Insights](https://www.ibm.com/watson/services/personality-insights/)
 
 <img src="https://github.com/LennartFr/2019-ibm-gaming/blob/master/Personality.png" height="300" width="400">
