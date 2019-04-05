@@ -34,7 +34,7 @@
 * [Natural Language Understanding](https://www.ibm.com/watson/services/natural-language-understanding/) Analyze text to extract metadata from content such as concepts, entities, keywords, categories, sentiment, emotion, relations, and semantic roles using natural language understanding.
 * [Personality Insights](https://www.ibm.com/watson/services/personality-insights/)
 
-<img src="https://github.com/LennartFr/2019-ibm-gaming/blob/master/Personality.png">
+<img src="https://github.com/LennartFr/2019-ibm-gaming/blob/master/Personality.png" height="400" width="800">
 
 * [Speech to Text](https://www.ibm.com/watson/services/speech-to-text/)
 * [Text to Speech](https://www.ibm.com/watson/services/text-to-speech/)
@@ -53,8 +53,6 @@
 
 * [Watson SDK for Unity](https://github.com/watson-developer-cloud/unity-sdk)
 * [Amara Starter AI Project](https://github.com/akeller/Starter-AR-Project)
-
-
 
 <hr size="50">
 
