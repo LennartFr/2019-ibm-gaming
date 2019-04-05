@@ -18,7 +18,7 @@
 
 # [Watson Unity SDK](https://github.com/watson-developer-cloud/unity-sdk)
 
-##    Watson Unity SDK services
+## Watson Unity SDK services
 
 <img src="unitysdkwatson.png"><br>
 [IBM Watson + Unity Hello Virtual World 4 EMOTIONAL AVATAR](https://www.youtube.com/watch?v=fOfFrGsNwHo)
@@ -48,6 +48,10 @@
 * [Unity + IBM Watson + Hello World: Video ](https://www.youtube.com/watch?v=tkvWi16rlE8)
 
 * [Watson SDK for Unity](https://github.com/watson-developer-cloud/unity-sdk)
+
+[Amara Starter AI Project](https://github.com/akeller/Starter-AR-Project)
+
+
 
 <hr size="50">
 
