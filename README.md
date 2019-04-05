@@ -41,6 +41,7 @@
 
 ## Unity and Watson
 
+* [Hands On Watson SDK for Unity Workshop](https://github.com/akeller/GDC-workshop)
 * [IBM & Unity partner to bring the power of AI to developers with IBM Watson SDK for Unity](https://blogs.unity3d.com/2018/02/20/bringing-the-power-of-ai-to-developers-with-the-ibm-watson-unity-sdk/)
 
 * [Install the IBM Watson SDK for Unity: Video](https://www.youtube.com/watch?v=rhDjNNzh-Nw)
