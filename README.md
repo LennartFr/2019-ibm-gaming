@@ -48,8 +48,7 @@
 * [Unity + IBM Watson + Hello World: Video ](https://www.youtube.com/watch?v=tkvWi16rlE8)
 
 * [Watson SDK for Unity](https://github.com/watson-developer-cloud/unity-sdk)
-
-[Amara Starter AI Project](https://github.com/akeller/Starter-AR-Project)
+* [Amara Starter AI Project](https://github.com/akeller/Starter-AR-Project)
 
 
 
