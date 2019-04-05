@@ -41,7 +41,7 @@
 * [Tone Analyzer](https://www.ibm.com/watson/services/tone-analyzer/)
 * [Visual Recognition](https://www.ibm.com/watson/services/visual-recognition/)
 
-<img src="
+<img src="https://github.com/LennartFr/2019-ibm-gaming/blob/master/visual.png"> 
 
 ## Unity and Watson
 
