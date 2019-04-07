@@ -30,6 +30,9 @@
 * [Discovery](https://www.ibm.com/watson/services/discovery/) "Unlock hidden value in data to find answers, monitor trends, and surface patterns with the world’s most advanced cloud-native insight engine"
 
 * [Language Translator V3](https://www.ibm.com/watson/services/language-translator/)
+
+<img src="LanguageTranslator.png">
+
 * [Natural Language Classifier](https://www.ibm.com/watson/services/natural-language-classifier/) help you understand its concepts, entities, keywords, sentiment, and more.
 
 <img src="https://github.com/LennartFr/2019-ibm-gaming/blob/master/NLClassifier.png">
