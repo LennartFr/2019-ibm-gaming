@@ -65,11 +65,11 @@
 * [Hands On Watson SDK for Unity Workshop](https://github.com/akeller/GDC-workshop)
 * [IBM & Unity partner to bring the power of AI to developers with IBM Watson SDK for Unity](https://blogs.unity3d.com/2018/02/20/bringing-the-power-of-ai-to-developers-with-the-ibm-watson-unity-sdk/)
 
-* [Install the IBM Watson SDK for Unity: Video](https://www.youtube.com/watch?v=rhDjNNzh-Nw)
+* [Taj 2:Install the IBM Watson SDK for Unity: Video](https://www.youtube.com/watch?v=rhDjNNzh-Nw)
 * [Watson Unity SDK: creating Watson Services: Video](https://www.youtube.com/watch?v=xKzSzTvRH68)
-* [Unity + IBM Watson + Hello World: Video ](https://www.youtube.com/watch?v=tkvWi16rlE8)
+* [Taj 3: Unity + IBM Watson + Hello World: Video ](https://www.youtube.com/watch?v=tkvWi16rlE8)
 
-* [Watson SDK for Unity](https://github.com/watson-developer-cloud/unity-sdk)
+* [Taj 4: Watson SDK for Unity](https://github.com/watson-developer-cloud/unity-sdk)
 * [Amara Starter AI Project](https://github.com/akeller/Starter-AR-Project)
 
 * [IBM Watson SDK for Unity Speech and Language Translation Multiple Languages - Part 1](https://www.youtube.com/watch?v=Xluwq9LuSTs)
