@@ -23,9 +23,6 @@
 <img src="unitysdkwatson.png"><br>
 [IBM Watson + Unity Hello Virtual World 4 EMOTIONAL AVATAR](https://www.youtube.com/watch?v=fOfFrGsNwHo)
 
-
-* [Taj 1: Watson Unity SDK intro](https://youtu.be/sNPsdUWSi34)
-
 * [Watson Assistant(Chatbot) ](https://www.ibm.com/cloud/watson-assistant/)
 
 * [Watson Compare Comply V1](https://www.ibm.com/cloud/compare-and-comply) "Extract data from contracts and governing documents to increase productivity, reduce costs and minimize exposure"
@@ -60,6 +57,11 @@
 
 ## Unity and Watson examples
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
+* [Taj 1: Watson Unity SDK intro](https://youtu.be/sNPsdUWSi34)
+
+
+
 * [Hands On Watson SDK for Unity Workshop](https://github.com/akeller/GDC-workshop)
 * [IBM & Unity partner to bring the power of AI to developers with IBM Watson SDK for Unity](https://blogs.unity3d.com/2018/02/20/bringing-the-power-of-ai-to-developers-with-the-ibm-watson-unity-sdk/)
 
