@@ -55,7 +55,7 @@
 
 <img src="https://github.com/LennartFr/2019-ibm-gaming/blob/master/visual.png"> 
 
-<img src="https://github.com/LennartFr/2019-ibm-gaming/blob/master/insurance.png"> 
+<img src="https://github.com/LennartFr/2019-ibm-gaming/blob/master/Insurance.png"> 
 
 ## Unity and Watson examples
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
