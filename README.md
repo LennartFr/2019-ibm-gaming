@@ -31,8 +31,6 @@
 
 * [Language Translator V3](https://www.ibm.com/watson/services/language-translator/)
 
-<img src="LanguageTranslator.png" heifght="300" width="200">
-
 * [Natural Language Classifier](https://www.ibm.com/watson/services/natural-language-classifier/) help you understand its concepts, entities, keywords, sentiment, and more.
 
 <img src="https://github.com/LennartFr/2019-ibm-gaming/blob/master/NLClassifier.png">
