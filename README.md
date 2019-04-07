@@ -24,7 +24,7 @@
 [IBM Watson + Unity Hello Virtual World 4 EMOTIONAL AVATAR](https://www.youtube.com/watch?v=fOfFrGsNwHo)
 
 
-* [WatsonnUnity SDK intro: (https://youtu.be/sNPsdUWSi34)
+* [Taj: WatsonnUnity SDK intro:](https://youtu.be/sNPsdUWSi34)
 
 * [Watson Assistant(Chatbot) ](https://www.ibm.com/cloud/watson-assistant/)
 
