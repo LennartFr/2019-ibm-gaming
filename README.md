@@ -52,8 +52,8 @@
 
 <img src="https://github.com/LennartFr/2019-ibm-gaming/blob/master/visual.png"> 
 
-## Unity and Watson examokes
-
+## Unity and Watson examples
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 * [Hands On Watson SDK for Unity Workshop](https://github.com/akeller/GDC-workshop)
 * [IBM & Unity partner to bring the power of AI to developers with IBM Watson SDK for Unity](https://blogs.unity3d.com/2018/02/20/bringing-the-power-of-ai-to-developers-with-the-ibm-watson-unity-sdk/)
 
