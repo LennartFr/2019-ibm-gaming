@@ -50,6 +50,9 @@
 <img src="https://github.com/LennartFr/2019-ibm-gaming/blob/master/Personality.png" height="300" width="400">
 
 * [Speech to Text](https://www.ibm.com/watson/services/speech-to-text/)
+
+* [Speech to Text example](https://speech-to-text-demo.ng.bluemix.net/)
+
 * [Text to Speech](https://www.ibm.com/watson/services/text-to-speech/)
 * [Tone Analyzer](https://www.ibm.com/watson/services/tone-analyzer/)
 
