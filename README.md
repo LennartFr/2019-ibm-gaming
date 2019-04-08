@@ -114,6 +114,8 @@ purpose greater than just personal enjoyment.
 
 
 # * [Rainbow Octopus](https://github.com/ibmets/rainbow-octopus)
+In this Code Pattern, we will build an Octopus in Unity, which we deploy into an AR environment on an iPhone/iPad using ARKit. We can talk to the Octopus using IBM Speech To Text, Tone Analyzer, and Watson Assistant, and it will respond in various ways.
+
 * [Rainbow Octopus - Test - Unity + ARKit + Watson SDK video:](https://www.youtube.com/watch?v=OPek4INjb6A&feature=youtu.be)
 * [Rainbow Octopus Source on Github](https://github.com/ibmets/rainbow-octopus)
 
