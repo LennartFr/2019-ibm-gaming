@@ -47,6 +47,18 @@
 
 ## * [Personality Insights](https://www.ibm.com/watson/services/personality-insights/)
 
+~~~~
+Summary
+
+You are a bit critical, shrewd and analytical.
+
+You are adventurous: you are eager to experience new things. You are self-controlled: you have control over your desires, which are not particularly intense. And you are philosophical: you are open to and intrigued by new ideas and love to explore them.
+
+Your choices are driven by a desire for organization.
+
+You are relatively unconcerned with both helping others and taking pleasure in life. You think people can handle their own business without interference. And you prefer activities with a purpose greater than just personal enjoyment.
+~~~~
+
 <img src="https://github.com/LennartFr/2019-ibm-gaming/blob/master/Personality.png" height="300" width="400">
 
 ## * [Speech to Text](https://www.ibm.com/watson/services/speech-to-text/)
