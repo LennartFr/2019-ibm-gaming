@@ -100,7 +100,7 @@ purpose greater than just personal enjoyment.
 * [IBM Watson SDK for Unity Speech and Language Translation Multiple Languages Part 2](https://www.youtube.com/watch?v=swsJo_jlCNo)
 
 * [Watson Unity SDK: Speech to Text example: Video](https://www.youtube.com/watch?v=woKMumx3TcY)
-## * [Facial Recognition with Watson Unity SDK: Video](https://www.youtube.com/watch?v=PvgK8wfQ_Mw)
+* [Facial Recognition with Watson Unity SDK: Video](https://www.youtube.com/watch?v=PvgK8wfQ_Mw)
 * [Get started with the IBM Watson Unity SDK](https://developer.ibm.com/tutorials/use-ibm-watson-sdk-with-unity/)
 * [Watson Developer Cloud Unity SDK](https://github.com/watson-developer-cloud/unity-sdk)
 * [Custom Language Model in Unity](https://developer.ibm.com/tutorials/watson-speech-to-text-custom-language-model/)
