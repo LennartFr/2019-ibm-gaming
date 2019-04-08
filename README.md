@@ -114,6 +114,8 @@ purpose greater than just personal enjoyment.
 
 <img src="ARKit.png">
 
+
+# * [Rainbow Octopus](https://github.com/ibmets/rainbow-octopus)
 * [Rainbow Octopus - Test - Unity + ARKit + Watson SDK video:](https://www.youtube.com/watch?v=OPek4INjb6A&feature=youtu.be)
 * [Rainbow Octopus Source on Github](https://github.com/ibmets/rainbow-octopus)
 
