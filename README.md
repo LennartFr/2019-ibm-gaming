@@ -2,8 +2,6 @@
 
 # URL: [https://bit.ly/2U79LBt](https://bit.ly/2U79LBt)
 
-# Some history: IBM Deep Blue 1996
-
 <img src="IBMGame.png">
 
 [IBM Cloud for Gaming](https://www.ibm.com/cloud/gaming)
