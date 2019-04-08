@@ -27,38 +27,38 @@
 # [IBM Watson + Unity Hello Virtual World 4 EMOTIONAL AVATAR](https://www.youtube.com/watch?v=fOfFrGsNwHo)
 
 
-* [Watson Assistant(Chatbot) ](https://www.ibm.com/cloud/watson-assistant/)
+## * [Watson Assistant(Chatbot) ](https://www.ibm.com/cloud/watson-assistant/)
 
 <img src="chatbot.png"><br>
 
-* [Watson Compare Comply V1](https://www.ibm.com/cloud/compare-and-comply) "Extract data from contracts and governing documents to increase productivity, reduce costs and minimize exposure"
+## * [Watson Compare Comply V1](https://www.ibm.com/cloud/compare-and-comply) "Extract data from contracts and governing documents to increase productivity, reduce costs and minimize exposure"
 
-* [Discovery](https://www.ibm.com/watson/services/discovery/) "Unlock hidden value in data to find answers, monitor trends, and surface patterns with the world’s most advanced cloud-native insight engine"
+## * [Discovery](https://www.ibm.com/watson/services/discovery/) "Unlock hidden value in data to find answers, monitor trends, and surface patterns with the world’s most advanced cloud-native insight engine"
 
-* [Language Translator V3](https://www.ibm.com/watson/services/language-translator/)
+## * [Language Translator V3](https://www.ibm.com/watson/services/language-translator/)
 
-* [Natural Language Classifier](https://www.ibm.com/watson/services/natural-language-classifier/) help you understand its concepts, entities, keywords, sentiment, and more.
+## * [Natural Language Classifier](https://www.ibm.com/watson/services/natural-language-classifier/) help you understand its concepts, entities, keywords, sentiment, and more.
 
 <img src="https://github.com/LennartFr/2019-ibm-gaming/blob/master/NLClassifier.png">
 
-* [Natural Language Understanding](https://www.ibm.com/watson/services/natural-language-understanding/) Analyze text to extract metadata from content such as concepts, entities, keywords, categories, sentiment, emotion, relations, and semantic roles using natural language understanding.
+## * [Natural Language Understanding](https://www.ibm.com/watson/services/natural-language-understanding/) Analyze text to extract metadata from content such as concepts, entities, keywords, categories, sentiment, emotion, relations, and semantic roles using natural language understanding.
 
 <img src="https://github.com/LennartFr/2019-ibm-gaming/blob/master/NLUnderstanding.png">
 
-* [Personality Insights](https://www.ibm.com/watson/services/personality-insights/)
+## * [Personality Insights](https://www.ibm.com/watson/services/personality-insights/)
 
 <img src="https://github.com/LennartFr/2019-ibm-gaming/blob/master/Personality.png" height="300" width="400">
 
-* [Speech to Text](https://www.ibm.com/watson/services/speech-to-text/)
+## * [Speech to Text](https://www.ibm.com/watson/services/speech-to-text/)
 
-* [Speech to Text example](https://speech-to-text-demo.ng.bluemix.net/)
+## * [Speech to Text example](https://speech-to-text-demo.ng.bluemix.net/)
 
-* [Text to Speech](https://www.ibm.com/watson/services/text-to-speech/)
-* [Tone Analyzer](https://www.ibm.com/watson/services/tone-analyzer/)
+## * [Text to Speech](https://www.ibm.com/watson/services/text-to-speech/)
+## * [Tone Analyzer](https://www.ibm.com/watson/services/tone-analyzer/)
 
 <img src="https://github.com/LennartFr/2019-ibm-gaming/blob/master/ToneAnalyzer.png">
 
-* [Visual Recognition](https://www.ibm.com/watson/services/visual-recognition/)
+## * [Visual Recognition](https://www.ibm.com/watson/services/visual-recognition/)
 
 <img src="https://github.com/LennartFr/2019-ibm-gaming/blob/master/visual.png"> 
 
@@ -69,9 +69,9 @@
 
 * [Amara: Hands On Watson SDK for Unity Workshop](https://github.com/akeller/GDC-workshop)
 
-* [Taj 1: Watson Unity SDK intro](https://youtu.be/sNPsdUWSi34)
-* [Taj 2:Install the IBM Watson SDK for Unity: Video](https://www.youtube.com/watch?v=rhDjNNzh-Nw)
-* [Taj 3: Unity + IBM Watson + Hello World: Video ](https://www.youtube.com/watch?v=tkvWi16rlE8)
+## * [Taj 1: Watson Unity SDK intro](https://youtu.be/sNPsdUWSi34)
+## * [Taj 2:Install the IBM Watson SDK for Unity: Video](https://www.youtube.com/watch?v=rhDjNNzh-Nw)
+## * [Taj 3: Unity + IBM Watson + Hello World: Video ](https://www.youtube.com/watch?v=tkvWi16rlE8)
 * [Taj 4: Watson SDK for Unity](https://github.com/watson-developer-cloud/unity-sdk)
 * [IBM & Unity partner to bring the power of AI to developers with IBM Watson SDK for Unity](https://blogs.unity3d.com/2018/02/20/bringing-the-power-of-ai-to-developers-with-the-ibm-watson-unity-sdk/)
 
@@ -79,7 +79,7 @@
 
 * [Amara Starter AI Project](https://github.com/akeller/Starter-AR-Project)
 
-* [RyanÖ IBM Watson SDK for Unity Speech and Language Translation Multiple Languages - Part 1](https://www.youtube.com/watch?v=Xluwq9LuSTs)
+* [Ryan: IBM Watson SDK for Unity Speech and Language Translation Multiple Languages - Part 1](https://www.youtube.com/watch?v=Xluwq9LuSTs)
 * [IBM Watson SDK for Unity Speech and Language Translation Multiple Languages Part 2](https://www.youtube.com/watch?v=swsJo_jlCNo)
 
 * [Watson Unity SDK: Speech to Text example: Video](https://www.youtube.com/watch?v=woKMumx3TcY)
